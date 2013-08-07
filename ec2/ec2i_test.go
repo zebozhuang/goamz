@@ -3,9 +3,9 @@ package ec2_test
 import (
 	"crypto/rand"
 	"fmt"
-	"launchpad.net/goamz/aws"
-	"launchpad.net/goamz/ec2"
-	"launchpad.net/goamz/testutil"
+	"github.com/prevoty/goamz/aws"
+	"github.com/prevoty/goamz/ec2"
+	"github.com/prevoty/goamz/testutil"
 	. "launchpad.net/gocheck"
 )
 

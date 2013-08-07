@@ -4,7 +4,7 @@ package sts
 
 import (
 	"encoding/xml"
-	"launchpad.net/goamz/aws"
+	"github.com/prevoty/goamz/aws"
 	"net/http"
 	"net/url"
 	"strconv"

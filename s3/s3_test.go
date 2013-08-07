@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"testing"
 
-	"launchpad.net/goamz/aws"
-	"launchpad.net/goamz/s3"
-	"launchpad.net/goamz/testutil"
+	"github.com/prevoty/goamz/aws"
+	"github.com/prevoty/goamz/s3"
+	"github.com/prevoty/goamz/testutil"
 	. "launchpad.net/gocheck"
 	"time"
 )
